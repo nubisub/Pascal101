@@ -1,40 +1,35 @@
 # Daftar Isi Pascal101
-> [1. Flowchart](1)
-> [`2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`][2]
+> [`1. Flowchart`](#flowchart)   
+> [`2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`][2]  
+> [`3. Perintah Input, dan Operator Aritmatika`][3]     
+> [`4. Pemilihan/Percabangan If-Then`][4]   
+> [`5. Multiple Selection (Struktur Pilihan Majemuk)`][5]   
+> [`6. Pengulangan I`][6]   
+> [`7. engulangan II`][7]   
+> [`8. Tipe Data Terbilang Dan Subrange Serta Subprogram I`][8] 
+> [`9. Subprogram II`][9]   
+> [`10. Array`][10] 
+> [`11. Record`][11]    
+> [`12. Rekursi`][12]   
+> [`13. Pengurutan`][13]    
+> [`14. Pencarian`][14] 
 
-> [`3. Perintah Input, dan Operator Aritmatika`]()
-> [`4. Pemilihan/Percabangan If-Then`]()
->[`5. Multiple Selection (Struktur Pilihan Majemuk)`]()
->[`6. Pengulangan I`]()
->[`7. engulangan II`]()
->[`8. Tipe Data Terbilang Dan Subrange Serta Subprogram I`]()
->[`9. Subprogram II`]()
->[`10. Array`]()
->[`11. Record`]()
->[`12. Rekursi`]()
->[`13. Pengurutan`]()
->[`14. Pencarian`]()
+...
+## Flowchart
 
-[1]:#bawah
-[2]:#bawah
----
-lorem ipsudmdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddlorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+1. Buatlah algoritma untuk aplikasi penghitungan luas dan keliling bangun datar: persegi panjang, bujur sangkar, segitiga, dan lingkaran yang dipilih salah satu oleh pengguna. Keluarannya adalah berupa luas dan keliling bangun datar. Setelah menampilkan hasil,pengguna dapat memutuskan untuk memilih penghitungan bangun datar yang lain atau keluar dari aplikasi.
 
-### Bawah
+2. Buatlah algoritma untuk menghitung harga total belanjaan untuk sebuah prototype mini market dengan ketentuan sebagai berikut:
+   - Terdapat 5 item barang (A, B, C, D, E) dengan harga masing-masing adalah: Rp.5,000, Rp 12,500, Rp14,000, Rp 21,000, Rp 26,000.
+   - Jika total belanjaan mencapai Rp 50,000, maka pelanggan berhak membeli item D   dengan harga Rp 19,000 dan atau item E dengan harga Rp 24,000.
+   - Jika total belanjaan mencapai Rp 100,000, maka pelanggan berhak
+mendapatkan discount sebesar 10 Persen.
 
-[1]:/Praktikum/1Praktikum/README.md
-[2]:/Praktikum/2Praktikum/README.md
+
+3. Buatlah algoritma untuk menghitung gaji karyawan per minggu dengan hari kerja Senin hingga Minggu, memiliki aturan sebagai berikut:
+   - Karyawan bisa memiliki jumlah jam kerja yang berbeda tiap hari, hari kerja normal adalah lima hari kerja, Senin hingga Jumat, dengan ketentuan besaran upah sebagai berikut:
+   - Golongan 1 dengan upah per jam Rp. 15,000,-
+   - Golongan 2 dengan upah per jam Rp. 19,000,-
+   - Golongan 3 dengan upah per jam Rp.24,000,-
+ 
+    Terkait dengan peraturan keamanan kerja maka jumlah jam kerja minimum per hari adalah 6 jam, dan maksimum adalah 12 jam. Bila seorang karyawan bekerja maksimal 40 jam/minggu, maka besaran upah per jam adalah mengikuti ketentuan di atas. Namun apabila karyawan bekerja lebih dari 40 jam per minggu, maka kelebihan jamnya akan memiliki besaran upah lembur yaitu sebesar dua kali besaran. Apabila karyawan bekerja pada hari Sabtu atau Minggu, maka besaran upah per jam pada hari tersebut dihitung sebagai upah lembur.
