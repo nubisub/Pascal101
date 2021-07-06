@@ -1,5 +1,5 @@
 # Daftar Isi Pascal101
-> [`1. Flowchart`][1]
+> [1. Flowchart](1)
 > [`2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`][2]
 
 > [`3. Perintah Input, dan Operator Aritmatika`]()
