@@ -1,6 +1,6 @@
 # Daftar Isi Pascal101
->[`1. Flowchart`][swew]
->[`2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`](/Praktikum/2Praktikum/README.md)
+>[`1. Flowchart`][1]
+>[`2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`][2]
 >[`3. Perintah Input, dan Operator Aritmatika`]()
 >[`4. Pemilihan/Percabangan If-Then`]()
 >[`5. Multiple Selection (Struktur Pilihan Majemuk)`]()
@@ -17,4 +17,5 @@
 ---
 
 
-[swew]:/Praktikum/1Praktikum/README.md
+[1]:/Praktikum/1Praktikum/README.md
+[2]:/Praktikum/2Praktikum/README.md
