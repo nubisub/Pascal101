@@ -11,5 +11,5 @@
 > [`10. Array`](Praktikum/10Praktikum/README.md)    
 > [`11. Record`](Praktikum/11Praktikum/README.md)    
 > [`12. Rekursi`](Praktikum/12Praktikum/README.md)   
-> [`13. Pengurutan`](Praktikum/13Praktikum/README.md)    
-> [`14. Pencarian`](Praktikum/14Praktikum/README.md) 
+> [`13. Pencarian`](Praktikum/13Praktikum/README.md)    
+> [`14. Pengurutan`](Praktikum/14Praktikum/README.md) 
