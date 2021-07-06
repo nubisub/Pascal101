@@ -1,0 +1,19 @@
+Program Contoh53;
+var
+   Nilai : integer;
+
+begin
+   writeln('Input nilai yang Anda dapatkan 0 s.d. 100 ');
+   write('Nilai Anda = ');
+   readln(Nilai);
+
+
+    case nilai of
+        0..59   : writeln(' Anda tidak lulus');
+        60..74  : writeln('Anda lulus dengan nilai cukup');
+        75..89  : writeln('Anda lulus dengan nilai baik');
+        90..100 : writeln('Anda lulus dengan nilai sangat baik');
+        else writeln('Anda Salah Input Nilai') 
+    end;
+    readln;
+end.

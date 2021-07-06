@@ -1,6 +1,8 @@
 program NamaHaridanMataKuliah;
+
 var
     hari: string;
+
 begin
     write('Nama Hari                  = ');
     readln(hari);

@@ -1,6 +1,8 @@
 program konversiSuhu;
+
 var
     suhu : integer;
+
 begin
     write('masukkan Suhu (celcius) = ');
     readln(suhu);
@@ -10,6 +12,7 @@ begin
         begin
         writeln('Beku');
         end
+
     else if (suhu >0) and (suhu<100) then
         begin
         writeln('Cair');
@@ -17,7 +20,7 @@ begin
     else
         begin
         writeln('Uap');
-        end;
+    end;
 
-    readln;
+   readln;
 end.

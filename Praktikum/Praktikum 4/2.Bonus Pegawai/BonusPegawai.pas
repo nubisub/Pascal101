@@ -1,8 +1,11 @@
 program bonuspegawai;
+
 var
     umur, lama, bonus : longint;
     staf : char;
+
 begin
+
     write('Masukkan Umur        = ');
     readln(umur);
     write('Masukkan Lama Kerja  = ');
@@ -35,6 +38,10 @@ begin
                 end
             end
         end
+
+
+
+
     else
         begin
             if (lama>5) then
@@ -52,8 +59,10 @@ begin
                 begin
                         bonus:=0;
                 end
+
         end;
 
     writeln('Bonus Yang Diperoleh = Rp', bonus);
+
     readln;
 end.
