@@ -2,10 +2,10 @@
 <table>
     <tr>
         <td>
-            MENCARI KONVERSI SUHU
-            =====================
-            Input derajad Celsius = -
-            Derajad Fahrenheit    = -
+            MENCARI KONVERSI SUHU <br>
+            ===================== <br>
+            Input derajad Celsius = - <br>
+            Derajad Fahrenheit    = - <br>
         </td>
     </tr>
 </table>
@@ -13,12 +13,12 @@
 <table>
     <tr>
         <td>
-            Menentukan Harga Bayar
-            ======================
-            Jumlah barang    = -
-            Harga satuan Rp. = -
-            Pajak Rp.        = -
-            Harga Bayar Rp.  = -
+            Menentukan Harga Bayar <br>
+            ====================== <br>
+            Jumlah barang    = - <br>
+            Harga satuan Rp. = - <br>
+            Pajak Rp.        = - <br>
+            Harga Bayar Rp.  = - <br>
         </td>
     </tr>
 </table>
@@ -26,10 +26,10 @@
 <table>
     <tr>
         <td>
-            Mencari Luas Lingkaran
-            ======================
-            Input Panjang jari-jari (cm) = -
-            Luas adalah (cm2)            = -
+            Mencari Luas Lingkaran <br>
+            ====================== <br>
+            Input Panjang jari-jari (cm) = - <br>
+            Luas adalah (cm2)            = - <br>
         </td>
     </tr>
 </table>
