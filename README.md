@@ -1,8 +1,8 @@
 # Pascal101
 
 ## Daftar Isi
-1. [Flowchart](/Praktikum/1Praktikum/README.md)
-2. [Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika]()
+1. [Flowchart](/Praktikum/1Praktikum)
+2. [Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika](/Praktikum/2Praktikum/README.md)
 3. [Perintah Input, dan Operator Aritmatika]()
 4. [Pemilihan/Percabangan If-Then]()
 5. [Multiple Selection (Struktur Pilihan Majemuk)]()
