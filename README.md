@@ -1,4 +1,4 @@
-# Daftar Isi Pascal101
+#Pascal101
 > [`01. Flowchart`](Praktikum/1Praktikum/README.md)   
 > [`02. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`](Praktikum/2Praktikum/README.md)     
 > [`03. Perintah Input, dan Operator Aritmatika`](Praktikum/3Praktikum/README.md)    
