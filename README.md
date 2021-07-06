@@ -6,8 +6,8 @@
 3. Perintah Input, dan Operator Aritmatika
 4. Pemilihan/Percabangan If-Then
 5. Multiple Selection (Struktur Pilihan Majemuk)
-6. 
-7. 
+6. Pengulangan I
+7. Pengulangan II
 8. 
 9. 
 10. 
