@@ -1,6 +1,5 @@
 [1. Buatlah flowchart untuk pseudocode tersebut.](/Praktikum/2Praktikum/Modul/1.flowchartSD/flowchartSD.pdf)
 
-
 <table>
     <tr>
         <td>Step 1</td>
@@ -19,3 +18,6 @@
         <td>Total nilai pada Step 3 dibagi dengan jumlah data. Step 5: Hitung akar kuadrat dari Step 4.</td>
     </tr>
 </table>
+
+2. Buatlah program dengan bahasa pemrograman Pascal dengan printah input dan tampilan berikut:
+    - [Program 1](/Modul/2.Konversi_Suhu/2.Konversi_Suhu.pas)
