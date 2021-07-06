@@ -27,4 +27,19 @@
             Input derjad Celsius = -
             Derjad Fahrenheit = -
         ```
-    
+    - [Program 2](/Praktikum/2Praktikum/Modul/3.Menentukan_Harga_Bayar/3.Menentukan_Harga_bayar.pas)
+        ```
+            Menentukan Harga Bayar
+            ======================
+            Jumlah barang = -
+            Harga satuan Rp. = -
+            Pajak Rp. = -
+            Harga Bayar Rp. = -
+        ```
+    - [Program 3](/Praktikum/2Praktikum/Modul/4.Mencari_Luas_Lingkaran/4.Mencari_Luas_Lingkaran.pas)
+    ```
+            Mencari Luas Lingkaran
+            ======================
+            Input Panjang jari-jari (cm) = -
+            Luas adalah (cm2) = -
+    ```
