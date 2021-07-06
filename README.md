@@ -8,10 +8,10 @@
 5. [Multiple Selection (Struktur Pilihan Majemuk)]()
 6. [Pengulangan I]()
 7. [Pengulangan II]()
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
+8. [Tipe Data Terbilang Dan Subrange Serta Subprogram I]()
+9. [Subprogram II]()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
