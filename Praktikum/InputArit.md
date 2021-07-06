@@ -1,4 +1,6 @@
 # Buatlah program dengan bahasa pemrograman Pascal dengan printah input dan tampilan berikut:
+
+## Konversi Suhu
 <table>
     <tr>
         <td>
@@ -26,6 +28,7 @@ begin
     readln;
 end.
 ```
+## Menentukan Harga Bayar
 
 <table>
     <tr>
@@ -60,6 +63,7 @@ begin
     readln;
 end.
 ```
+## Luas Lingkaran
 
 <table>
     <tr>
