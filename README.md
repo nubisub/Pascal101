@@ -1,6 +1,6 @@
 # Daftar Isi Pascal101
 >[1. Flowchart](#Bawah)
-
+> [`00. Persiapan`][tutorial 00]  
 >[`2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`][2]
 >[`3. Perintah Input, dan Operator Aritmatika`]()
 >[`4. Pemilihan/Percabangan If-Then`]()
