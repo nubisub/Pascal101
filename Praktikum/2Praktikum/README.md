@@ -19,6 +19,7 @@
     </tr>
 </table>
 
+
 2. Buatlah program dengan bahasa pemrograman Pascal dengan printah input dan tampilan berikut:
     - [Program 1](/Praktikum/2Praktikum/Modul/2.Konversi_Suhu/2.Konversi_Suhu.pas)
         ```
@@ -37,9 +38,9 @@
             Harga Bayar Rp. = -
         ```
     - [Program 3](/Praktikum/2Praktikum/Modul/4.Mencari_Luas_Lingkaran/4.Mencari_Luas_Lingkaran.pas)
-    ```
+        ```
             Mencari Luas Lingkaran
             ======================
             Input Panjang jari-jari (cm) = -
             Luas adalah (cm2) = -
-    ```
+        ```
