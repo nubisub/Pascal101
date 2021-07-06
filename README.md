@@ -14,7 +14,7 @@
 > [`13. Pengurutan`][13]    
 > [`14. Pencarian`][14] 
 
-...
+---
 ## Flowchart
 
 1. Buatlah algoritma untuk aplikasi penghitungan luas dan keliling bangun datar: persegi panjang, bujur sangkar, segitiga, dan lingkaran yang dipilih salah satu oleh pengguna. Keluarannya adalah berupa luas dan keliling bangun datar. Setelah menampilkan hasil,pengguna dapat memutuskan untuk memilih penghitungan bangun datar yang lain atau keluar dari aplikasi.
