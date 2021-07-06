@@ -6,7 +6,7 @@
 > [`5. Multiple Selection (Struktur Pilihan Majemuk)`](Praktikum/5Praktikum/README.md)  
 > [`6. Pengulangan I`](Praktikum/6Praktikum/README.md)  
 > [`7. Pengulangan II`](Praktikum/7Praktikum/README.md)     
-> [`8. Tipe Data Terbilang Dan Subrange Serta Subprogram I`](Praktikum/8Praktikum/README.md)
+> [`8. Tipe Data Terbilang Dan Subrange Serta Subprogram I`](Praktikum/8Praktikum/README.md)    
 > [`9. Subprogram II`](Praktikum/9Praktikum/README.md)  
 > [`10. Array`](Praktikum/10Praktikum/README.md)    
 > [`11. Record`](Praktikum/11Praktikum/README.md)    
