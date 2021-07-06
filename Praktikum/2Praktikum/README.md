@@ -20,4 +20,10 @@
 </table>
 
 2. Buatlah program dengan bahasa pemrograman Pascal dengan printah input dan tampilan berikut:
-    - [Program 1](/Modul/2.Konversi_Suhu/2.Konversi_Suhu.pas)
+    - [Program 1](/Praktikum/2Praktikum/Modul/2.Konversi_Suhu/2.Konversi_Suhu.pas)
+        <table>
+        MENCARI KONVERSI SUHU
+        =====================
+        Input derjad Celsius = -
+        Derjad Fahrenheit = -
+        </table>
