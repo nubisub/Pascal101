@@ -13,5 +13,7 @@
 10. [Array]()
 11. [Record]()
 12. [Rekursi]()
-13. []()
-14. []()
+13. [Pengurutan]()
+14. [Pencarian]()
+
+---
