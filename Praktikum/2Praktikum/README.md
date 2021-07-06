@@ -45,7 +45,7 @@
             Luas adalah (cm2) = -
         ```
 
-3. Membuat [source code](Praktikum/2Praktikum/Praktikum/1.Luas_Segitiga/1.Luas_Segitiga.pas) untuk menghitung luas segitiga, user akan memasukkan alas dan tinggi sebagai input, dan aplikasi akan menampilkan luas ke layar dengan dua digit desimal. Aplikasi akan langsung selesai setelah proses menampilkan hasil. Misalkan user memasukkan angka 5 dan 6, maka output akan seperti ini:
+3. Membuat [source code](/Praktikum/2Praktikum/Praktikum/1.Luas_Segitiga/1.Luas_Segitiga.pas) untuk menghitung luas segitiga, user akan memasukkan alas dan tinggi sebagai input, dan aplikasi akan menampilkan luas ke layar dengan dua digit desimal. Aplikasi akan langsung selesai setelah proses menampilkan hasil. Misalkan user memasukkan angka 5 dan 6, maka output akan seperti ini:
     ```
     Menghitung luas segitiga.
     Masukkan alas: 5
