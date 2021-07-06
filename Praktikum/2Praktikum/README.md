@@ -1,3 +1,5 @@
+# Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika
+
 1. Buatlah [flowchart](/Praktikum/2Praktikum/Modul/1.flowchartSD/flowchartSD.pdf) untuk pseudocode tersebut.
 
     <table>
