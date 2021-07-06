@@ -14,4 +14,3 @@
 > [`13. Pencarian`](Praktikum/13Praktikum/README.md)    
 > [`14. Pengurutan`](Praktikum/14Praktikum/README.md) 
 
-mantapoiio
