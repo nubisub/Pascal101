@@ -88,6 +88,6 @@
             readln;
             end.
         ```
-2. Perbaiki ketiga contoh program di atas untuk bagian menginput nilai, baris 5-7 untuk [contoh51](Praktikum/5Praktikum/4/51.pas) dan [contoh52](Praktikum/5Praktikum/4/52.pas) serta baris 6-8 untuk [contoh53](Praktikum/5Praktikum/4/53.pas) sehingga jika pengguna menginputkan nilai diluar 0 s.d. 100 maka program langsung memberikan pesan salah menginput nilai kemudian selesai.
+2. Perbaiki ketiga contoh program di atas untuk bagian menginput nilai, baris 5-7 untuk [contoh51](/Praktikum/5Praktikum/4/51.pas) dan [contoh52](/Praktikum/5Praktikum/4/52.pas) serta baris 6-8 untuk [contoh53](/Praktikum/5Praktikum/4/53.pas) sehingga jika pengguna menginputkan nilai diluar 0 s.d. 100 maka program langsung memberikan pesan salah menginput nilai kemudian selesai.
 
-3. [Modifikasi](Praktikum/5Praktikum/5/program53.pas) Contoh53 sehingga nested(Bersarang) CASE berubah menjadi singgle CASE tanpa mengubah output program.
+3. [Modifikasi](/Praktikum/5Praktikum/5/program53.pas) Contoh53 sehingga nested(Bersarang) CASE berubah menjadi singgle CASE tanpa mengubah output program.
