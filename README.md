@@ -1,9 +1,9 @@
 # Daftar Isi Pascal101
 > [`1. Flowchart`](#flowchart)   
-> [`2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`]()     
-> [`3. Perintah Input, dan Operator Aritmatika`]()    
-> [`4. Pemilihan/Percabangan If-Then`]()  
-> [`5. Multiple Selection (Struktur Pilihan Majemuk)`]()  
+> [`2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`](#pseudocode-flowchart-perintah-input-dan-operator-aritmatika)     
+> [`3. Perintah Input, dan Operator Aritmatika`](#Variabel-Tipe-Data-dan-Fungsi-Standar)    
+> [`4. Pemilihan/Percabangan If-Then`](#Struktur-Pemilihan-Percabangan-If-Then)  
+> [`5. Multiple Selection (Struktur Pilihan Majemuk)`](#Multiple-Selection-Struktur-Pilihan-Majemuk))  
 > [`6. Pengulangan I`]()  
 > [`7. Pengulangan II`]()  
 > [`8. Tipe Data Terbilang Dan Subrange Serta Subprogram I`]()
@@ -130,3 +130,166 @@ mendapatkan discount sebesar 10 Persen.
     Robusta Temanggung:2
     Total yang harus dibayarkan: Rp. 1210000
     ```
+## Variabel ,Tipe Data, dan Fungsi Standar Matematika
+
+1. Jalankan statement bahasa pemrograman Pascal, kemudian tuliskan output masing- masing statetement.
+    ```pascal
+    begin   
+        writeln(1234:7);
+        writeln(1234:6);
+        writeln(1234:4);
+        writeln(1234:1);
+        writeln(1234:0);
+
+        writeln('==========');
+
+        writeln(12.35:10:4);
+        writeln(12.35:10:3);
+        writeln(12.35:8:1);
+        writeln(12.35:8:0);
+        writeln(-12.35:10:1);
+        writeln(12.35:9);
+        writeln(12.35:7);
+        writeln(12.35:0:2);
+
+        writeln('==========');
+
+        writeln('a':6);
+        writeln('abc':6);
+        writeln('abc':9);
+
+        readln;
+    end.
+    ```
+
+2. Buatlah program dengan bahasa pemrograman Pascal dengan menggunakan perintah input dan tipe data yang tepat sebagai variabel. Gunakan fungsi standard yang terdapat pada bahasa pemrograman Pascal pada [link](https://wiki.freepascal.org/Standard_Functions) untuk membantu peemrosesan data.
+
+   - [Program 1](/Praktikum/3Praktikum/2.Standar_Deviasi/StandarDeviasi.pas)
+        ```
+        Mencari Standar Deviasi (SD)
+        ============================
+        Data ke x (data) = -
+        Rata – rata (rata) = -
+        Jumlah Data (n) = -
+        Standar Deviasi (sd)= -
+        ```
+   - [Program 2](/Praktikum/3Praktikum/3.Distribusi_Normal/DistribusiNormal.pas)
+        ```
+        NILAI TABEL DARI DISTRIBUSI NORMAL
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        Nilai rata-rata masing-masing (x) = -
+        Nilai rata-rata keseluruhan (m) = -
+        Data ke x (data)= -
+        Jumlah data (n) = -
+        Nilai Tabel (z) = -
+        ```
+
+## Struktur Pemilihan/Percabangan If-Then
+1. Buatlah [program](/Praktikum/4Praktikum/2.Bonus%20Pegawai/BonusPegawai.pas) untuk menentukan bonus pegawai, berdasarkan ketentuan yang diberikan oleh bagian personalia dan keuangan sebagai berikut : Pegawai perusahaan digolongkan menjadi dua golongan, yaitu staf dan non staf. Staf akan mendapatkan bonus sebesar 1 juta rupiah dengan syarat bahwa ia telah bekerja paling tidak 5 tahun dan umurnya sudah mencapai 50 tahun; staf yang bekerja kurang dari 5 tahun dan berapapun umurnya, hanya mendapat bonus sebesar Rp.500.000. Pegawai non staf yang telah bekerja lebih dari 5 tahun akan mendapat bonus sebesar Rp. 400.000 jika berumur lebih dari 50 tahun sedangkan pegawai non staf yang berumur kurang dari 50 tahun hanya mendapat bonus Rp. 250.000. Pegawai staf yang umurnya kurang dari 50 tahun akan mendapat bonus Rp. 300.000. (~Soal Tidak Jelas)
+
+2. Buatlah [program](/Praktikum/4Praktikum/3.Pengukuran%20Suhu/PengukuranSuhu.pas) menggunakan statemen if then yang membaca sebuah besaraninteger yang menunjukkan hasil pengukuran suhu pada derajat celcius dan menuliskan kondisi air pada suhu yang diberikan dengan ketentuan sebagai berikut :
+    - Suhu sama atau kurang dari 0 (nol) tuliskan ‘beku’.
+    - Suhu lebih dari 0 (nol) dan kurang dari 100 tuliskan ‘cair’, dan
+    - Suhu sama atau lebih dari 100 tuliskan ‘uap’.
+
+3. Buatlah [program](/Praktikum/4Praktikum/4.HariDanMataKuliah/HariDanMataKuliah.pas) menggunakan statemen if then yang menerima masukan nama hari (string) dan menuliskan mata kuliah yang diberikan pada hari tersebut,dengan ketentuan sebagai berikut :
+    - Senin mata kuliah yang diberikan Algoritma dan Pemrograman I
+    - Selasa mata kuliah yang diberikan Kalkulus
+    - Rabu mata kuliah yang diberikan Bahasa Indonesia
+    - Kamis mata kuliah yang diberikan Pengantar Teknik Informatika
+    - Jum’at mata kuliah yang diberikan Bahasa Inggris
+    - Sabtu mata kuliah yang diberikan Basis Data
+
+## Multiple Selection (Struktur Pilihan Majemuk)
+1. Ubah Struktur CASE program di bawah (ada 3 program) dengan Struktur pilihan yang lain.
+    - [Program 1](/Praktikum/5Praktikum/3/program51.pas)
+        ```pascal
+            {Program Konversi Nilai CASE}
+
+            Program Contoh51;
+            var Nilai : integer;
+            grade : char;
+            begin
+            writeln(‘Input nilai yang Anda dapatkan 0 s.d. 100 ‘);
+            write(&#39;Nilai Anda = &#39;);
+            readln(Nilai);
+
+            case Nilai of
+            0..59: grade:=’D’;
+            60..69: grade:=’C’;
+            70..79: grade:=’B’;
+            80..100: grade:=’A’;
+            end;
+
+            writeln(&#39;Grade Anda&#39;, Grade );
+
+            Case Grade of
+            ‘D’: writeln(‘ Kurang memuaskan’);
+            ‘C’: writeln(‘ Cukup’);
+            ‘B’: writeln(‘ Baik’);
+            ‘A’: writeln(‘ Sangat Baik’);
+            end;
+            readln
+            end.
+        ```
+    - [Program 2](/Praktikum/5Praktikum/3/program52.pas)
+        ```pascal
+            {Program Konversi Nilai CASE-ELSE}
+            program Contoh52;
+            var Nilai : integer;
+            grade : char;
+            begin
+            writeln(‘Input nilai yang Anda dapatkan 0 s.d. 100 ‘);
+            write(&#39;Nilai Anda = &#39;);
+            readln(Nilai);
+            case Nilai of
+            0..59: grade:=’D’;
+            60..69: grade:=’C’;
+            70..79: grade:=’B’;
+            80..100: grade:=’A’;
+            else grade:=’F’;
+            end;
+            if Grade=’F’ then
+            writeln(‘Anda salah input nilai’)
+            else if writeln(&#39;Grade Anda&#39;, Grade );
+            Case Grade of
+            ‘D’: writeln(‘ Kurang memuaskan’);
+            ‘C’: writeln(‘ Cukup’);
+            ‘B’: writeln(‘ Baik’);
+            ‘A’: writeln(‘ Sangat Baik’);
+            end;
+            readln
+            end.
+        ```
+    - [Program 3](/Praktikum/5Praktikum/3/program53.pas)
+        ```pascal
+            {Program Menentukan Hasil Ujian}
+            Program Contoh53;
+            var
+            Nilai : integer;
+
+            begin
+            writeln(‘Input nilai yang Anda dapatkan 0 s.d. 100 ‘);
+            write(&#39;Nilai Anda = &#39;);
+            readln(Nilai);
+
+            case nilai of
+            0..59 : writeln(‘ Anda tidak lulus’;
+            60..100 :
+            begin
+            write(‘Anda lulus ’);
+            case nilai of
+            60..74: writeln(‘dengan nilai cukup’);
+            75..89: writeln(‘dengan nilai baik’);
+            else writeln(‘dengan nilai sangat baik’);
+            end;
+            end;
+            else writeln(‘ Anda salah input nilai’);
+
+            end;
+            readln;
+            end.
+        ```
+2. Perbaiki ketiga contoh program di atas untuk bagian menginput nilai, baris 5-7 untuk [contoh51](/Praktikum/5Praktikum/4/51.pas) dan [contoh52](/Praktikum/5Praktikum/4/52.pas) serta baris 6-8 untuk [contoh53](/Praktikum/5Praktikum/4/53.pas) sehingga jika pengguna menginputkan nilai diluar 0 s.d. 100 maka program langsung memberikan pesan salah menginput nilai kemudian selesai.
+
+3. [Modifikasi](/Praktikum/5Praktikum/5/program53.pas) Contoh53 sehingga nested(Bersarang) CASE berubah menjadi singgle CASE tanpa mengubah output program.
