@@ -9,7 +9,9 @@
         </td>
     </tr>
 </table>
+
 *Fahrenheit = 9/5 * Celsius + 32
+
 ```pascal
 Program Konversi_suhu;
 var
@@ -37,7 +39,9 @@ end.
         </td>
     </tr>
 </table>
+
 *Harga bayar = Jumlah x harga_satuan + pajak
+
 ```pascal
 Program Menentukan_Harga_Bayar;
 var
@@ -55,7 +59,6 @@ begin
     writeln(' Harga Bayar  Rp. = ',b:4:0);
     readln;
 end.
-
 ```
 
 <table>
@@ -68,7 +71,9 @@ end.
         </td>
     </tr>
 </table>
+
 *Luas = 22/7 x jari x jari
+
 ```pascal
 Program Mencari_Luas_Lingkaran;
 var
