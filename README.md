@@ -1,9 +1,9 @@
 # Daftar Isi Pascal101
->[`1. Flowchart`](#Bawah)
+> [`1. Flowchart`][1]
+> [`2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`][2]
 
->[`2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika`][2]
->[`3. Perintah Input, dan Operator Aritmatika`]()
->[`4. Pemilihan/Percabangan If-Then`]()
+> [`3. Perintah Input, dan Operator Aritmatika`]()
+> [`4. Pemilihan/Percabangan If-Then`]()
 >[`5. Multiple Selection (Struktur Pilihan Majemuk)`]()
 >[`6. Pengulangan I`]()
 >[`7. engulangan II`]()
@@ -15,6 +15,8 @@
 >[`13. Pengurutan`]()
 >[`14. Pencarian`]()
 
+[1]:#bawah
+[2]:#bawah
 ---
 lorem ipsudmdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddlorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 lorem ipsudmddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
