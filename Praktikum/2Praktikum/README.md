@@ -45,7 +45,7 @@
             Luas adalah (cm2) = -
         ```
 
-3. Membuat (source code)[Praktikum\2Praktikum\Praktikum\1.Luas_Segitiga\1.Luas_Segitiga.pas] untuk menghitung luas segitiga, user akan memasukkan alas dan tinggi sebagai input, dan aplikasi akan menampilkan luas ke layar dengan dua digit desimal. Aplikasi akan langsung selesai setelah proses menampilkan hasil. Misalkan user memasukkan angka 5 dan 6, maka output akan seperti ini:
+3. Membuat (source code)[Praktikum/2Praktikum/Praktikum/1.Luas_Segitiga/1.Luas_Segitiga.pas] untuk menghitung luas segitiga, user akan memasukkan alas dan tinggi sebagai input, dan aplikasi akan menampilkan luas ke layar dengan dua digit desimal. Aplikasi akan langsung selesai setelah proses menampilkan hasil. Misalkan user memasukkan angka 5 dan 6, maka output akan seperti ini:
     ```
     Menghitung luas segitiga.
     Masukkan alas: 5
@@ -53,7 +53,7 @@
     Luas: 15.00
     ```
 
-4. Membuat (source code)[\Praktikum\2Praktikum\Praktikum\2.Luas_Dan_Keliling_Lingkaran\2.Luas_Dan_Keliling_Lingkaran.pas] untuk mengitung luas dan keliling lingkaran, dengan user memasukkan besarnya jari-jari terlebih dahulu dan dalam satu digit decimal. Misalkan user memasukkan jari-jari = 10, maka akan muncul output sebagai berikut:
+4. Membuat (source code)[/Praktikum/2Praktikum/Praktikum/2.Luas_Dan_Keliling_Lingkaran/2.Luas_Dan_Keliling_Lingkaran.pas] untuk mengitung luas dan keliling lingkaran, dengan user memasukkan besarnya jari-jari terlebih dahulu dan dalam satu digit decimal. Misalkan user memasukkan jari-jari = 10, maka akan muncul output sebagai berikut:
     ```
     Menghitung luas dan keliling lingkaran.
     Masukkan jari-jari: 10
@@ -61,7 +61,7 @@
     Keliling: 62.8
     ```
 
-5. Membuat (source code)[\Praktikum\2Praktikum\Praktikum\3.Penjumlahan_Perkalian_3_Bilangan\3.Penjumlahan_Perkalian3Bilangan.pas] untuk menghitung penjumlahan dan perkalian tiga bilangan yang dimasukkan oleh user satu per satu.
+5. Membuat (source code)[/Praktikum/2Praktikum/Praktikum/3.Penjumlahan_Perkalian_3_Bilangan/3.Penjumlahan_Perkalian3Bilangan.pas] untuk menghitung penjumlahan dan perkalian tiga bilangan yang dimasukkan oleh user satu per satu.
     ```
     Menghitung penjumlahan dan perkalian tiga bilangan.
     a:1
@@ -71,7 +71,7 @@
     Hasil perkalian:1 x 2 x 3 = 6
     ```
 
-6. Membuat (source code)[\Praktikum\2Praktikum\Praktikum\4.Total_Belanja_Biji_Kopi\4.Total_Belanja_Biji_kopi.pas] untuk menghitung total belanja biji kopi di sebuah distributor kopi, yang harga kopinya adalah tertentu sesuai jenis biji kopi (dalam Rupiah) sebagai berikut:
+6. Membuat (source code)[/Praktikum/2Praktikum/Praktikum/4.Total_Belanja_Biji_Kopi/4.Total_Belanja_Biji_kopi.pas] untuk menghitung total belanja biji kopi di sebuah distributor kopi, yang harga kopinya adalah tertentu sesuai jenis biji kopi (dalam Rupiah) sebagai berikut:
     - Arabica Gayo: 180,000
     - Arabica Kintamani: 150,000
     - Arabica Toraja: 95,000
