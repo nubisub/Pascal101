@@ -1,8 +1,17 @@
 # Pascal101
 
 ## Daftar Isi
-1.Perintah Input, dan Operator Aritmatika
-a.Konversi Suhu
-    b.Menentukan Harga Bayar
-    c.Luas Lingkaran
-2.Pemilihan/Percabangan If-Then
+1. Flowchart
+2. Pseudocode, Flowchart, Perintah Input, dan Operator Aritmatika
+3. Perintah Input, dan Operator Aritmatika
+4. Pemilihan/Percabangan If-Then
+5. Multiple Selection (Struktur Pilihan Majemuk)
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
