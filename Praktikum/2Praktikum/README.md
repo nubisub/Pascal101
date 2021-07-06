@@ -1,4 +1,4 @@
-[1. Buatlah flowchart untuk pseudocode tersebut.](/Modul/1.flowchartSD/flowchartSD.pdf)
+[1. Buatlah flowchart untuk pseudocode tersebut.](Praktikum/2Praktikum/Modul/1.flowchartSD/flowchartSD.pdf)
 
 
 <table>
