@@ -71,7 +71,7 @@
     Hasil perkalian:1 x 2 x 3 = 6
     ```
 
-6. Membuat [source code](Praktikum\2Praktikum\Praktikum\4.Total_Belanja_Biji_Kopi\4.Total_Belanja_Biji_kopi.pas] untuk menghitung total belanja biji kopi di sebuah distributor kopi, yang harga kopinya adalah tertentu sesuai jenis biji kopi (dalam Rupiah) sebagai berikut:
+6. Membuat [source code](Praktikum\2Praktikum\Praktikum\4.Total_Belanja_Biji_Kopi\4.Total_Belanja_Biji_kopi.pas) untuk menghitung total belanja biji kopi di sebuah distributor kopi, yang harga kopinya adalah tertentu sesuai jenis biji kopi (dalam Rupiah) sebagai berikut:
     - Arabica Gayo: 180,000
     - Arabica Kintamani: 150,000
     - Arabica Toraja: 95,000
